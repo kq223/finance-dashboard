@@ -8,7 +8,7 @@ const App = () => {
   return (
     <StockProvider>
       <div className="container">
-        <h1>Finance Dashboard</h1>
+        <h1>Stock Dashboard</h1>
         <StockForm />
         <StockList />
       </div>
